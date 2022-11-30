@@ -1,2 +1,2 @@
-# multiplayer-social-deduction-game-with-rpg-aspects
+# Game Developer Exam - Salazar Kenneth
 Definite Studios Game Developer Exam
